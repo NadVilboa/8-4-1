@@ -96,11 +96,17 @@ h2 {
 footer {
   padding: 65px 0px 80px 80px;
   display: flex;
+  justify-content: center;
   width: 100%;
 }
 
 .container-links {
   width: 120px;
+  margin-left: 400px;
+}
+
+footer img {
+  display: block;
 }
 
 .social {
