@@ -87,6 +87,11 @@ h2 {
 
 footer {
   padding: 65px 0px 80px 80px;
+  display: flex;
+}
+
+.container-links {
+  width: 120px;
 }
 
 .social {
