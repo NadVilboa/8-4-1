@@ -42,8 +42,8 @@ nav {
   font-size: 24px;
   text-decoration: none;
   position: absolute;
-  top: 85px;
-  left: 150px;
+  top: 90px;
+  left: 295px;
 }
 
 .link-info {
@@ -51,7 +51,8 @@ nav {
   font-size: 24px;
   text-decoration: none;
   position: absolute;
-  left: 100px;
+  left: 290px;
+  top: 150px;
   width: 50px;
 }
 
