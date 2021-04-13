@@ -128,8 +128,6 @@ footer {
 
 .container-links {
   width: 120px;
-  margin-left: 90px;
-  margin-right: 90px;
 }
 
 footer img {
@@ -138,5 +136,5 @@ footer img {
 
 .social {
   display: inline-block;
-  margin-bottom: 60px;
+  margin: 90px;
 }
