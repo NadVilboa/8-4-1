@@ -62,6 +62,12 @@ nav {
   left: 295px;
 }
 
+.link-mysites:hover,
+.link-info:hover {
+  color: #F86A03;
+  transition: 1.5s linear;
+}
+
 .link-info {
   color: #000000;
   font-size: 24px;
