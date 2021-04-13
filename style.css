@@ -88,6 +88,7 @@ h2 {
 footer {
   padding: 65px 0px 80px 80px;
   display: flex;
+  width: 100%;
 }
 
 .container-links {
@@ -95,5 +96,5 @@ footer {
 }
 
 .social {
-  margin-right: 60px;
+  margin-bottom: 60px;
 }
