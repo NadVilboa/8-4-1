@@ -15,7 +15,7 @@ header {
 }
 
 main {
-  margin: auto;
+  margin: 0 auto;
   width: 1200px;
 }
 
@@ -112,6 +112,7 @@ footer {
 
 .container-links {
   width: 120px;
+  margin-left: 30px;
 }
 
 footer img {
