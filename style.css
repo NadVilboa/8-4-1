@@ -21,6 +21,10 @@ header {
   align-items: center;
 }
 
+.container {
+  margin-top: 30px;
+}
+
 h1 {
   text-align: center;
   color: #9FEE00;
