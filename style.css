@@ -38,6 +38,10 @@ h1 {
 }
 
 nav {
+  display: flex;
+}
+
+.container-nav {
   position: relative;
   margin: 0 auto;
   width: 830px;
